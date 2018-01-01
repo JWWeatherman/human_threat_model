@@ -3,9 +3,10 @@
 - PUBLISH_DATE: October 2017
 - DESCRIPTION: A security review of Humans
 - TITLE: Human Threat Model
-- FAVICON: http://res.cloudinary.com/loristeeth/image/upload/v1511128064/Small_btc_logo__y588lv.png
+- FAVICON: http://res.cloudinary.com/doohickey/image/upload/c_scale,h_16,w_16/v1514836811/faceless_human_oupj6w.png
 - QUOTE: The human threat model is intended to help humans better understand the threats to that they face and the tools available, and in active development, for defense.
 - HASHTAGS: #bitcoin, #btc, #blockchain, #cryptocurrency, #Human, #freedom, #free
+- MAIN_IMAGE: http://res.cloudinary.com/doohickey/image/upload/c_scale,w_800/v1514835923/human_vortex_nzhq0b.png
 
 ---
 
