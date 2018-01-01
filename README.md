@@ -116,6 +116,7 @@ items to be "goods" they must
 be more useful than the goods
 used as inputs.
 
+---
 
 ## An attacker could damage a human 
 Because humans are fragile,
