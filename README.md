@@ -1,3 +1,14 @@
+
+- COMPANY_NAME: JW Weatherman
+- PUBLISH_DATE: October 2017
+- DESCRIPTION: A security review of Humans
+- TITLE: Human Threat Model
+- FAVICON: http://res.cloudinary.com/loristeeth/image/upload/v1511128064/Small_btc_logo__y588lv.png
+- QUOTE: The human threat model is intended to help humans better understand the threats to that they face and the tools available, and in active development, for defense.
+- HASHTAGS: #bitcoin, #btc, #blockchain, #cryptocurrency, #Human, #freedom, #free
+
+---
+
 # Introduction
 The human threat model is intended
 to help humans better understand
