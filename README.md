@@ -98,7 +98,7 @@ safety features in place,
 or under active development,
 to make these attacks less effective.
 
-# 1. Producing goods
+# Producing goods
 Humans produce goods when they 
 use their bodies, exsting goods and 
 resources found in the world
@@ -109,7 +109,7 @@ be more useful than the goods
 used as inputs.
 
 
-## 1.1 An attacker could damage a human 
+## An attacker could damage a human 
 Because humans are fragile,
 they can be damaged by breaking their bodies,
 or putting them through mental anguish.
@@ -117,7 +117,7 @@ If an attacker is able to damage a human enough
 he will become unporductive and unable to assist
 in the mission of making the world delightful.
 
-### Safety Features
+** Safety Features **
 * Humans are incredibly adaptable. 
 Even if an arm or leg is removed 
 or they suffured great mental anquish, 
@@ -160,32 +160,34 @@ reducing the property,
 and therefore the opportunity to produce offspring,
 of attackers.
 
-### Past attacks
+** Past attacks **
 * Cain and Able.
 
-### Expenses High
+** Expenses High **
 An attacker would likely suffer death
 if they attempted to attack a human.
 Either immediately in the course of defense,
 or after the fact in the course of justice.
 
-### Income Low
+** Income Low **
 Unless this attack was performed in combination
 with another attack there is no income for
 the attacker beyond the
 pleasure of a digenerate.
 
-### Profitability - Unprofitable
+** Profitability - Unprofitable **
 Because expenses are high and
 income is zero this attack is 
 unprofitable.
 
-### No significant impact on mission
+** No significant impact on mission **
 Isolated murder and violence has had little impact 
 on humanities mission to make the world 
 delightful.
 It must be cleverly combined with other 
 attacks in order to be effective.
+
+---
 
 ## 1.2 An attacker could take a humans goods.
 If an attacker is able to take all of the goods of a human,
