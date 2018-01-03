@@ -161,24 +161,24 @@ of attackers.
 * Cain and Able.
 
 **Expenses High** 
-An attacker would likely suffer death
+* An attacker would likely suffer death
 if they attempted to attack a human.
 Either immediately in the course of defense,
 or after the fact in the course of justice.
 
 **Income Low**
-Unless this attack was performed in combination
+* Unless this attack was performed in combination
 with another attack there is no income for
 the attacker beyond the
 pleasure of a digenerate.
 
 **Profitability - Unprofitable**
-Because expenses are high and
+* Because expenses are high and
 income is zero this attack is 
 unprofitable.
 
 **No significant impact on mission**
-Isolated murder and violence has had little impact 
+* Isolated murder and violence has had little impact 
 on humanities mission to make the world 
 delightful.
 It must be cleverly combined with other 
@@ -264,7 +264,7 @@ was required to repay seven times
 the amount stolen.
 
 **Past attacks**
-The earliest recorded attacks on property
+* The earliest recorded attacks on property
 are strategic attacks that
 include murder (1.1 An attacker could damage a human).
 However, it is reasonable to assume,
@@ -274,30 +274,30 @@ or goods left unprotected due to strange circumstances,
 took place before our earliest preserved writings.
 
 **Expenses High**
-An attacker takes a significant risk that they would 
+* An attacker takes a significant risk that they would 
 suffer a reduction in property,
 through the justice system,
 if they attempted to steal from a human.
 
 **Income High**
-If an attacker is able to target
+* If an attacker is able to target
 humans with significant savings
 they could obtain valuable goods
 through theft.
 
 **Profitability - Very Profitable**
-Although the risk is high in most cases,
+* Although the risk is high in most cases,
 the attacker can select victims and circumstances
 that allow this attack to be profitable.
 
-This is the only attack that is profitable
+* This is the only attack that is profitable
 on it's own.
 If this attack could be made unprofitbale
 it is possible that all strategic attacks would 
 also become unprofitable.
 
 **Significant impact** 
-Simple theft must be cleverly combined with other 
+* Simple theft must be cleverly combined with other 
 attacks in order to be effective.
 However, because this attack is probably a 
 prerequisite for all other combinations of attacks 
@@ -305,7 +305,7 @@ its has significantly slowed
 the human mission to make the world delightful.
 
 **How Bitcoin will make theft unprofitable**
-Simple theft is profitable because humans
+* Simple theft is profitable because humans
 are periodically 
 unable to defend themselves against
 attack or access the justice system after an attack. 
@@ -395,7 +395,7 @@ producing defense goods that would increase
 the cost of theft.
 
 **Expenses High**
-Because humans have a strong drive to produce,
+* Because humans have a strong drive to produce,
 and the natural world reveals itself to need improvements
 (through death and disease),
 this attack requires great expense.
@@ -416,16 +416,16 @@ defend the child and call upon
 the justice system for assistance.
 
 **Income Low**
-By producing a human that is not productive
+* By producing a human that is not productive
 the attacker does not gain any goods.
 
 **Profitability - Unprofitable**
-This attack is impractical on its own,
+* This attack is impractical on its own,
 highly expensive and produces no
 goods for the attacker.
 
 **No significant impact on mission**
-There are no known instances of this attack
+* There are no known instances of this attack
 being attempted.
 However, when skillfully combined
 with other attacks it can be
@@ -505,7 +505,7 @@ benefit by learning how to avoid suffering.
 have used a combination of attacks. 
 
 **Expenses High**
-Although this attack is cheaper
+* Although this attack is cheaper
 than attempting to convince a human
 that production is impossible,
 it remains very costly.
@@ -522,7 +522,7 @@ are born with a stong sense of
 justice based on property.
 
 **Income High**
-If an attacker could convince 
+* If an attacker could convince 
 the victims to abandon the concept
 of property and justice
 he could obtain their goods
@@ -532,10 +532,10 @@ unless it is strategically
 combined with other attacks.
 
 **Profitability - Unprofitable**
-This attack is impractical on its own.
+* This attack is impractical on its own.
 
 **No significant impact on mission**
-There are no known instances of this attack
+* There are no known instances of this attack
 being attempted.
 However, when skillfully combined
 with other attacks it can be
@@ -597,7 +597,7 @@ without skillfully combining it with
 other attacks.
 
 **Expenses High**
-The justice system would regard
+* The justice system would regard
 any attacker that attempts to remove
 a safety feature from human society
 as more deserving of punishment
@@ -609,7 +609,7 @@ decieve or coerce many victims simultaniously,
 makes this attack impractical on its own.
 
 **Income Low**
-Even if an attacker could find 
+* Even if an attacker could find 
 a way to remove a safety feature
 this would not,
 in itself,
@@ -620,10 +620,10 @@ but strategic attacks are covered
 in the next section.
 
 **Profitability - Unprofitable**
-This attack is impractical on its own.
+* This attack is impractical on its own.
 
 **No significant impact on mission**
-There are no known instances of this attack
+* There are no known instances of this attack
 being attempted.
 However, when skillfully combined
 with other attacks it can be
@@ -668,7 +668,7 @@ without skillfully combining it with
 other attacks.
 
 **Expenses High**
-The justice system would regard
+* The justice system would regard
 any attacker that attempts to 
 convince a human to attack 
 as more deserving of punishment
@@ -676,7 +676,7 @@ than an attacker that attempted
 to damage a human directly.
 
 **Income Low**
-Even if an attacker could find 
+* Even if an attacker could find 
 a way to convince a human to become 
 an attacker,
 this would not,
@@ -686,10 +686,10 @@ Strategic attacks are covered
 in the next section.
 
 **Profitability - Unprofitable**
-This attack is impractical on its own.
+* This attack is impractical on its own.
 
 **No significant impact on mission**
-There are no known instances of this attack
+* There are no known instances of this attack
 being attempted.
 However, when skillfully combined
 with other attacks it can be
@@ -750,7 +750,7 @@ of the victims.
 * Fascism, Italy, ~1922-45, https://en.wikipedia.org/wiki/Italian_Fascism
 
 **Expenses**
-Because resources are rapidly squandered
+* Because resources are rapidly squandered
 predators are forced to create a steady 
 stream of new victims.
 If they fail to deliver "fresh meat"
@@ -779,7 +779,7 @@ than kidnapping or purchasing victims
 from other predators.
 
 **Income**
-As in racial slavery
+* As in racial slavery
 the very bodies of the victims
 are controlled by the predators.
 All goods produced are immediately
@@ -941,7 +941,7 @@ the predators are able to steal from the victims
 and makes the overall productivity of victims low. 
 
 **Profitability - Moderate**
-While the portion of goods stolen from victims is 
+* While the portion of goods stolen from victims is 
 as high as theoretically possible 
 the costs,
 combined with the inability
@@ -957,7 +957,7 @@ and the remaining predators suffer
 along with the victims.
 
 **How bitcoin disrupts socialist slavery**
-Bitcoin disables socialist slavery 
+* Bitcoin disables socialist slavery 
 in three major ways. 
 First, wealth stored in Bitcoin is very difficult to steal. 
 Without the ability to steal the savings
@@ -1000,7 +1000,7 @@ of a surprising mechanism
 enabled by anonymous gambling.
 
 **Getting Hitler to throw the game** 
-To illustrate this let's imagine that 
+* To illustrate this let's imagine that 
 we live in Germany in 1932.
 Hitler is about to rise to power
 and it is clear to many that he intends 
@@ -1063,7 +1063,7 @@ for sexual gratification.
 * United States Empire, Present day, http://www.sfgate.com/news/article/SEX-TRAFFICKING-San-Francisco-Is-A-Major-Center-2468554.php 
 
 **Expenses**
-This is probably the most objectionable 
+* This is probably the most objectionable 
 form of predation to the normal human mind.
 
 Victims are highly motivated to escape or kill
@@ -1086,7 +1086,7 @@ predators purchase victims from other predators
 and this represents a significant, upfront, investment.
 
 **Income**
-As of this writing there are enough 
+* As of this writing there are enough 
 mentally underdeveloped, 
 and financially capable, 
 individuals 
@@ -1100,7 +1100,7 @@ and it does produce economic goods
 (sexual satisfaction).
 
 **Profitability - Moderate**
-Although the income obtained from this 
+* Although the income obtained from this 
 form of slavery is high 
 the high costs,
 greatly reduce the profitability.
@@ -1110,7 +1110,7 @@ that is profitable in the modern,
 and economically developed, world.
 
 **How Bitcoin disrupts sexual slavery**
-Because sexual slavery is so repulsive 
+* Because sexual slavery is so repulsive 
 to the human mind 
 it is only possible when 
 security services are completely inept.
@@ -1381,7 +1381,7 @@ is used to justify greater theft through taxes.
 * US War on Drugs, 1914-Present, https://en.wikipedia.org/wiki/War_on_drugs
 
 **Expenses**
-The only significant costs involved are 
+* The only significant costs involved are 
 spent on preventing competing providers,
 but they can be extorted by taking their goods,
 and then reselling them,
@@ -1400,7 +1400,7 @@ of acquiring victims by purchasing
 them from other attackers.
 
 **Income** 
-Productivity is relatively unaffected by this form of slavery
+* Productivity is relatively unaffected by this form of slavery
 as long as the activity is 
 seen as optional by the victims.
 
@@ -1435,7 +1435,7 @@ encourage consumption of the prohibited good.
 https://www.youtube.com/watch?v=nMwxWHaZUro
 
 **Profitability - Moderate**
-Because the costs are so low
+* Because the costs are so low
 and the productivity of the victims is 
 almost unaffected 
 the profitability is pretty good 
@@ -1444,7 +1444,7 @@ most of the victims goods are
 not stolen.
 
 **How Bitcoin will disrupt prohibition slavery**
-Like monopoly slavery,
+* Like monopoly slavery,
 prohibition slavery is only possible
 if the predator is able to prevent competitors
 from providing the product or service.
@@ -1507,7 +1507,7 @@ defense services.
 
 **Expenses**
 
-A high percentage of the victims, 
+* A high percentage of the victims, 
 when combined with at least one full generation of indoctrination from youth,
 and democratic elections,
 believe themselves to be free.
@@ -1609,14 +1609,14 @@ without compromising the deception
 that they are "public servants" and not predators.
 
 **Income**
-The amount of income obtained
+* The amount of income obtained
 through this attack is substantial.
 Most victims in the western world
 have more than half of their production
 stolen in this way.
 
 **Profitability - Moderate**
-While the productivity of the victims
+* While the productivity of the victims
 is high the predator must keep the percentage
 of his theft relatively low.
 If the percentage is raised high enough
@@ -1636,7 +1636,7 @@ under socialist slavery the predator gain
 a larger percentage of the victims wealth.
 
 **How Bitcoin disrupts taxation slavery**
-Cash in general, 
+* Cash in general, 
 and electronic cash in particular,
 greatly increases the costs of taxation slavery. 
 
@@ -1688,7 +1688,7 @@ is no longer common
 in developed countries.
 
 **Expenses**
-In this form of slavery 
+* In this form of slavery 
 the victims are aware 
 that they are being stolen from.
 While it is true that 
@@ -1727,7 +1727,7 @@ can be reduced,
 but they remain very high.
 
 **Income**
-Because the predator has posession
+* Because the predator has posession
 of the victims very body
 he takes immediate and automatic possesion 
 of any goods produced.
@@ -1737,14 +1737,14 @@ in order to share the spoils without
 the need to wait for the goods to be produced.
 
 **Profitability - very low**
-After the industrial revolution
+* After the industrial revolution
 the market value of unskilled labar was significantly 
 reduced.
 This, combined with the high expenses
 made racial slavery unprofitable.
 
 **How Bitcoin disrupts racial slavery**
-Racial slavery is alreay unprofitable,
+* Racial slavery is alreay unprofitable,
 but Bitcoin will further increase wealth,
 and decrease inequality
 especially among the poor.
@@ -1753,7 +1753,7 @@ and make racial slavery even more unprofitable.
 
 **Monopoly Slavery**
 
-Under monopoly slavery the 
+* Under monopoly slavery the 
 predator forces the victim to buy 
 his products and services.
 This is accomplished by convincing some of the victims and
@@ -1767,7 +1767,7 @@ In effect this steals wealth from the vicitms
 with every purchase (1.2). 
 
 **Expenses**
-Because the victims are often
+* Because the victims are often
 effectively decieved the motivation
 to kill the predator is low.
 Bystanders are also often
@@ -1817,7 +1817,7 @@ but nothing as costly as purchasing
 the victims from other attackers.
 
 **Income** 
-By creating monopolies for key
+* By creating monopolies for key
 products and services,
 such as defense, communication 
 and education a predator can
@@ -1834,7 +1834,7 @@ is to keep the portion of
 wealth stolen from victims low.
 
 **Profitability - medium**
-Although the security 
+* Although the security 
 and investment risk is low,
 the portion that can be stolen is also low.
 Additionally the services monopolized
@@ -1847,7 +1847,7 @@ of this form of slavery is substantial
 but not as great as other forms of slavery.
 
 **How bitcoin will disrupt monopoly slavery**
-In order to enforce monopoly slavery
+* In order to enforce monopoly slavery
 the predator must be able to prevent
 the victims from buying from competitors.
 Anonymous, digital transactions 
@@ -1932,7 +1932,7 @@ increase and decrease in value.
 * As of this writing legal tender slavery is in effect on every square foot of the earth.
 
 **Expenses**
-It is only possible to implement this scheme
+* It is only possible to implement this scheme
 after the predator has relative control of 
 a population of victims so those startup costs are not 
 included.
@@ -1972,7 +1972,7 @@ this scheme can be stacked on top without
 significant cost.
 
 **Income**
-Although the amount stolen by directly printing
+* Although the amount stolen by directly printing
 money is usually limited to about 2-8% per year
 of the total money in circulation 
 (called inflation by predators)
@@ -2018,7 +2018,7 @@ to increase their production in a vain attempt
 to maintain their quality of life.
 
 **Profitability - high**
-Because the costs are so low, and this scheme
+* Because the costs are so low, and this scheme
 offers multiple significant streams of income,
 the profitability is high.
 
@@ -2074,7 +2074,7 @@ profitable forms of slavery will only be executed
 by men with impaired and underdeveloped minds.
 
 **How bitcoin will disrupt legal tender slavery**
-Bitcoin will break the legal tender monopolies
+* Bitcoin will break the legal tender monopolies
 because it is not bulky to transport in large amounts.
 As a result it is not dependent on approval from the predator,
 through boarder checks or the banking monopoly,
