@@ -5,92 +5,29 @@
 ---
 
 # Introduction
-The human threat model is intended
-to help humans better understand
-the threats to that they face
-and the tools available,
-and in active development,
-for defense.
-Threats are assumed to be any activity designed to
-prevent humanity from accomplishing it's mission 
-to make the world delightful. 
+The human threat model is intended to help humans better understand the threats to that they face and the tools available, and in active development, for defense. Threats are assumed to be any activity designed to prevent humanity from accomplishing it's mission to make the world delightful. 
 
-The desire to accomplish this goal 
-and the most effective strategy,
-honoring private property,
-is an inate characteristic of all humans.
+The desire to accomplish this goal and the most effective strategy, honoring private property, is an inate characteristic of all humans.
 
-The system of  property
-rewards productivity, 
-and enables complex systems
-of coordinated production 
-to be established and managed
-effectively.
+The system of  property rewards productivity, and enables complex systems of coordinated production to be established and managed effectively.
 
-To a human,
-any violation of  property,
-starting with a humans own body 
-and extending to the goods he
-has produced with his labor, is an injustice.
+To a human, any violation of  property, starting with a humans own body and extending to the goods he has produced with his labor, is an injustice.
 
-Humans, like other social mamals,
-appear to have an entire
-circuit within their nervious system
-that detects and responds powerfully
-to injustice.
+Humans, like other social mamals, appear to have an entire circuit within their nervious system that detects and responds powerfully to injustice.
 
-Although this justice drive, 
-is not functional 
-in some humans
-they are looked upon by their fellows
-as inhuman beasts.
-It is considered an 
-incomprehensible abomination
-that must be the result of a fundamental defect.
-In other words, they are no longer considered
-fully human by their fellow men.
+Although this justice drive, is not functional in some humans they are looked upon by their fellows as inhuman beasts. It is considered an incomprehensible abomination that must be the result of a fundamental defect. In other words, they are no longer considered fully human by their fellow men.
 
-Because humans are so well suited
-for their mission,
-attacks on their mission,
-will effect them deeply
-and cause anguish.
+Because humans are so well suited for their mission, attacks on their mission, will effect them deeply and cause anguish.
 
-Humans progress towards making the world
-delightful is called production.
-The tools produced to make humans
-more effective in their labor 
-are called goods.
+Humans progress towards making the world delightful is called production. The tools produced to make humans more effective in their labor are called goods.
 
-In order for an attack to be effective
-it must meet two requiremenst.
-First it must make the victims less
-productive.
-Second it must provide the attacker
-with more goods than he consumed
-in executing the attack.
-This is because if he becomes
-pooror as a result of the attack
-he will be incentivised to stop
-and if he continues he will eventually
-starve to death.
+In order for an attack to be effective it must meet two requiremenst. First it must make the victims less productive. Second it must provide the attacker with more goods than he consumed in executing the attack. This is because if he becomes pooror as a result of the attack he will be incentivised to stop and if he continues he will eventually starve to death.
 
-Human production can be neatly divided into
-producing goods, choosing goods to produce, 
-and rewarding production. 
-We will look at each of these 
-functions and the applicable attacks. 
+Human production can be neatly divided into producing goods, choosing goods to produce, and rewarding production. We will look at each of these functions and the applicable attacks. 
 
-Finally we will look at strategic attacks
-that use an ingenious combination of attacks 
-in order to be more effective than any one
-attack alone.
+Finally we will look at strategic attacks that use an ingenious combination of attacks in order to be more effective than any one attack alone.
 
-For each attack we will examine
-its major properties and the 
-safety features in place, 
-or under active development,
-to make these attacks less effective.
+For each attack we will examine its major properties and the safety features in place, or under active development, to make these attacks less effective.
 
 ---
 
