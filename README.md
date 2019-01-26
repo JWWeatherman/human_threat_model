@@ -62,18 +62,18 @@ Because humans are fragile, they can be damaged by breaking their bodies, or put
 * Because expenses are high and income is zero this attack is unprofitable.
 
 **No significant impact on mission**
-* Isolated murder and violence has had little impact  on humanity's mission to make the world  delightful. It must be cleverly combined with other  attacks in order to be effective.
+* Isolated murder and violence has had little impact on humanity's mission to make the world  delightful. It must be cleverly combined with other  attacks in order to be effective.
 
 ---
 
 ## An attacker could take a humans goods.
-If an attacker is able to take all of the goods of a human, and he is far from assistance, he ---will---(may?) die because he is usually ---able---(unable?) to acquire the goods he requires directly from nature. 
+If an attacker is able to take all of the goods of a human, and he is far from assistance, he will die because he is to acquire the goods he requires directly from nature. 
 
 If the attacker only takes a portion of his goods he has effectively eliminated the contribution made by that human while he was producing those goods. This has the added effect of producing mental anguish upon the particular human and every other human that becomes aware of the attack. This mental suffering also impedes future production.
 
 In order to make this profitable the attacker must possess overwhelming force and he must be able to flee from the justice system. Two quintessential examples are  finding a victim isolated during travel and a traveling band of attackers.
 
-When attacking a victim "on the road" the attacker has the advantage of waiting until he is unable to avail himself  of many defensive tools that are  impractical to bring while traveling. The attacker is also (able?) to select a location that makes it difficult for  the nearest justice system to find him.
+When attacking a victim "on the road" the attacker has the advantage of waiting until he is unable to avail himself  of many defensive tools that are  impractical to bring while traveling. The attacker is also able to select a location that makes it difficult for  the nearest justice system to find him.
 
 Roving bands of attackers are also able to select victims that are relatively isolated. A small village, for example, may not  be able to resist a larger group of attackers. Because the attackers are continually traveling from victim to victim,  the isolated village would not be able  to appeal to the justice system of  neighboring humans before the attackers were able to escape.
 
@@ -121,7 +121,7 @@ Common deceptions include:
 * Convincing the human that production  is actually not a good, but a "bad." For example: that the world is perfect  and any changes made by humans  are negative by definition. 
 * Convincing the human that he is broken  and incapable of production. This is often done by giving him "assignments" that are naturally opposed to his nature. For example: asking a young male to sit still for long periods of time or asking a young female to play aggressive sports  and then making it clear that their performance is disappointing.
 * Convincing the human that the human race, as a whole, is only capable of destruction.
-* Convincing the human that production is pointless. The cosmos is really chaos  and whatever humans produce will soon be returned to ---the void--- (entropy?).
+* Convincing the human that production is pointless. The cosmos is really chaos and whatever humans produce will soon be returned to the void.
 
 **Safety Features**
 * A desire to produce and  to care for oneself and other humans is extremely strong. Even with indoctrination from  as young as 4 years of age, these ideas are often rejected in early adulthood.
@@ -250,7 +250,7 @@ Strategic attacks use a crafty combination  of attacks to be more effective. It 
 Strategic attacks leverage this initial flaw in human safety features  to amplify the profitability  by reducing the costs and increasing the income from theft.  This section will review a few of the most popular attacks throughout human history.
 
 ## Socialist Slavery
-Socialist slavery is a   combination of attacks that have proven to be profitable for attackers.
+Socialist slavery is a combination of attacks that have proven to be profitable for attackers.
 
 It deceives humans about the best way to make the world delightful (2.1),  in order to convince them to remove safety features that deter attacks (3.1), and it even tricks humans into becoming attackers themselves (3.2). Ultimately the original attacker is  rewarded with the ability to take the goods of the victims unhindered (1.2). 
 
@@ -273,13 +273,13 @@ Predators do assume some risk in  attempting to gain power over  a population,  
 **Income**
 * As in racial slavery the very bodies of the victims are controlled by the predators. All goods produced are immediately owned by the predators.
 
-This strategy of deception has proven more effective than racial slavery,  where the predators attempt to convince victims that  they are an inferior race of men. If victims' deception is increased,  the productivity of victims increases and this increases the income of the attackers.
+This strategy of deception has proven more effective than racial slavery, where the predators attempt to convince victims that  they are an inferior race of men. If victims' deception is increased, the productivity of victims increases and this increases the income of the attackers.
 
 One indication of its deceptive power  is the fact that it has been effectively used to steal from men performing skilled and creative labor, where racial slavery has only been effective in stealing from  men engaged in unskilled labor. Presumably this is because it's easier to  inflict violence when productivity drops in unskilled and uncreative tasks because productivity is easy to measure.
 
 For example: if a victim reduces the number of mud bricks  produced from 100 to 90 it is obvious production has dropped, but if a carpenter takes 8 or 9 days instead of 7 to produce a chest of drawers, it could be because the materials proved challenging,  the tools needed additional care, or that the carpenter improved the quality.
 
-However, the fact that victim productivity under  socialist slavery compares favorably to the productivity of victims under  racial slavery does not mean that it is not ---unlimately--- (ultimately?) an attack on  humanity's mission to produce a delightful world. Productivity is greatly hindered  under socialist slavery.
+However, the fact that victim productivity under socialist slavery compares favorably to the productivity of victims under  racial slavery does not mean that it is not ultimately an attack on humanity's mission to produce a delightful world. Productivity is greatly hindered under socialist slavery.
 
 In socialist slavery the key ruse, that there is a difference between ownership of a resource  and the power to allocate that resource, is soon unmasked by by daily experience.
 
@@ -287,11 +287,11 @@ In the past the victims decided what goods they would  acquire for their labor a
 
 This greatly decreases  incentives to produce, and it greatly increases the incentives to  participate in predation (as this is the only way to obtain goods). This creates a vicious cycle where victims continually become more effective predators and less effective producers.
 
-This form of slavery also  prevents good decision making. Good decisions require  market prices and market prices require free exchange between owners.
+This form of slavery also prevents good decision making. Good decisions require  market prices and market prices require free exchange between owners.
 
-To understand this, imagine you have a field  that is suitable for wheat or corn.  How do you decide what crop to produce? Under normal circumstances you can compare your costs for each crop to the expected sale price  (based roughly on past prices) and you can grow the crop  that will produce the greatest profit.
+To understand this, imagine you have a field that is suitable for wheat or corn.  How do you decide what crop to produce? Under normal circumstances you can compare your costs for each crop to the expected sale price (based roughly on past prices) and you can grow the crop that will produce the greatest profit.
 
-Let's assume you determine that corn is going to be more profitable. This could be because a disease has affected corn production on another continent. It could be because the first ethanol based engine was invented last week and insiders  are buying corn futures. It could also be the result of increased  labor cost after a dam broke and damaged a nearby town. It could be a million things or more, but in order to make the best decision for consumers you only need to know prices.
+Let's assume you determine that corn is going to be more profitable. This could be because a disease has affected corn production on another continent. It could be because the first ethanol based engine was invented last week and insiders are buying corn futures. It could also be the result of increased labor cost after a dam broke and damaged a nearby town. It could be a million things or more, but in order to make the best decision for consumers you only need to know prices.
 
 Now imagine that you are a socialist slave owner. You own the men. You own the fields.  You own the corn, the wheat and all of the equipment.  How will you decide if that particular field  should grow corn or wheat?  What is the ratio of demand between wheat and corn?
 
@@ -303,12 +303,12 @@ By taking ownership of all of these goods the predator has gained the ability to
 
 The socialist slave owner is like a child  that steals a candy factory only to find that he is left eating  granulated sugar and raw cocoa.  https://mises.org/library/economic-calculation-socialist-commonwealth
 
-This is why populations under socialist slavery only survive as long as they are able to  consume previously created resources. The deception is temporary and predators can't make informed decisions. This greatly limits both the duration and amount  the predators are able to steal from the victims and makes the overall productivity of victims low. 
+This is why populations under socialist slavery only survive as long as they are able to consume previously created resources. The deception is temporary and predators can't make informed decisions. This greatly limits both the duration and amount the predators are able to steal from the victims and makes the overall productivity of victims low. 
 
 **Profitability: Moderate**
 * While the portion of goods stolen from victims is  as high as theoretically possible, the costs, combined with the inability to make reasonable decisions, makes socialism slavery a temporary venture with constantly decreasing returns. 
 
-In this way socialist slavery is  like a Ponzi scheme.  Predators that get in and out early profit greatly, but eventually the institution collapses and the remaining predators suffer  along with the victims.
+In this way socialist slavery is  like a Ponzi scheme.  Predators that get in and out early profit greatly, but eventually the institution collapses and the remaining predators suffer along with the victims.
 
 **How bitcoin disrupts socialist slavery**
 * Bitcoin disables socialist slavery  in three major ways.  First, wealth stored in Bitcoin is very difficult to steal.  Without the ability to steal the savings of victims, socialist slavery may not be possible.
@@ -336,14 +336,14 @@ Any one of these effects created by Bitcoin could be enough to prevent  the esta
 ## Sexual Slavery
 Sexual slavery is an abomination that  takes advantage of situations where  the justice system is not functional (3.1) and there are enough damaged humans that are willing to trade goods in order to damage other humans (1.1).
 
-Under sexual slavery the attacker (slave owner)  takes ownership of the victims body  and rents it to degenerates that use it for sexual gratification.
+Under sexual slavery the attacker takes ownership of the victims body and rents it to degenerates that use it for sexual gratification.
 
 **Past Attacks**
 * Roman and Greek Empires, https://en.wikipedia.org/wiki/Sexual_slavery#Ancient
 * United States Empire, Present day, http://www.sfgate.com/news/article/SEX-TRAFFICKING-San-Francisco-Is-A-Major-Center-2468554.php 
 
 **Expenses**
-* This is probably the most objectionable  form of predation to the normal human mind.
+* This is probably the most objectionable form of predation to the normal human mind.
 
 Victims are highly motivated to escape or kill the predator and many bystanders are willing to risk their own lives, or at least invest aggressively, in order to see the predator suffer justice.
 
@@ -376,7 +376,7 @@ The average salary for a homicide detective is about the same as the manager at 
 
 But, through logic we can discover the fact that, unlike at Chik-fil-a the police will suffer financially if they become effective. Managers at Chik-fil-a receive bonuses based on the  amount of chicken they sell. But Police officers get promoted when the police  force grows larger.  When the police ask the city for a increasing budgets, their best ally is a high crime rate. If they are more effective, they are punished with decreasing (or at best flat) budgets.
 
-On the other hand they are financially rewarded  if they can obtain money or goods by stealing them from citizens. This is called "civil asset forfeiture" in the USA. Is it surprising that the quality of homicide investigations have dropped and the amount of civil asset forfeiture has increased? 
+On the other hand they are financially rewarded if they can obtain money or goods by stealing them from citizens. This is called "civil asset forfeiture" in the USA. Is it surprising that the quality of homicide investigations have dropped and the amount of civil asset forfeiture has increased? 
 
 This doesn't mean that police officers are intentionally corrupt (although our aversion to this idea is probably more a result of public "schooling" than personal experience), but it does mean that they are rewarded when they do evil and punished when they do good. Should we expect positive results?
 
@@ -392,7 +392,7 @@ Why doesn't Chik-fil-a need to exclude smart people from their employment? Becau
 
 It is always a challenge to imagine how thousands of entrepreneurs will problem solve in order to provide a  good service at a good price, but if they can do it with food  (arguably more essential to life than security services) we shouldn't be skeptical.
 
-If I have been successful,  at least in introducing some doubt  that security services are the one magical exception where state monopolies provide better services than free competition, we can move onto discovering how Bitcoin will break the backs of these monopolies.
+If I have been successful, at least in introducing some doubt that security services are the one magical exception where state monopolies provide better services than free competition, we can move onto discovering how Bitcoin will break the backs of these monopolies.
 
 For a more detailed description of how police forces would be improved  with competition see  https://mises.org/blog/privatize-police
 
@@ -444,7 +444,7 @@ Because the predator needs the violations to occur in order to sell the prohibit
 
 Because the predator must select  an activity that is seen as optional in order to keep the costs low, the portion of goods stolen from the victim must remain low.
 
-For a small percentage of the victims, the good may be addictive enough so that the predator gains a high portion of their productivity. This isn't ideal as it could result in higher costs for the predator  (as in socialist slavery) but he can offset these costs by  exaggerating the risks beyond all reason to justify increasing taxation. In fact if the claims are sufficiently absurd  then legitimate sources of caution will be ignored by potential users and this could also  encourage consumption of the prohibited good. https://www.youtube.com/watch?v=nMwxWHaZUro
+For a small percentage of the victims, the good may be addictive enough so that the predator gains a high portion of their productivity. This isn't ideal as it could result in higher costs for the predator  (as in socialist slavery) but he can offset these costs by  exaggerating the risks beyond all reason to justify increasing taxation. In fact if the claims are sufficiently absurd  then legitimate sources of caution will be ignored by potential users and this could also encourage consumption of the prohibited good. https://www.youtube.com/watch?v=nMwxWHaZUro
 
 **Profitability: Moderate**
 * Because the costs are so low and the productivity of the victims is  almost unaffected  the profitability is pretty good  even though  most of the victims goods are  not stolen.
@@ -467,7 +467,7 @@ The most common "service" provided by the attacker to justify this theft is defe
 
 **Expenses**
 
-* A high percentage of the victims,  when combined with at least one full generation of indoctrination from youth, and democratic elections, believe themselves to be free. In fact they believe that although they are victims they are also equally predators because they enjoy the labor taken from others as they share in the spoils. As a result, they believe the distinction  between victims and predators isn't applicable.
+* A high percentage of the victims, when combined with at least one full generation of indoctrination from youth, and democratic elections, believe themselves to be free. In fact they believe that although they are victims they are also equally predators because they enjoy the labor taken from others as they share in the spoils. As a result, they believe the distinction  between victims and predators isn't applicable.
 
 Of course there still remain true predators that are only victims in appearance, because they steal much more than is stolen from them. There also remain true victims, that are only predators in appearance, because they are stolen from much more than they steal, but the deception is effective.
 
@@ -506,17 +506,17 @@ The costs of tracking income is increased when transactions are anonymous. Under
 
 Many predators in the modern world have  worked very hard to make cash transactions difficult, but bitcoin transactions are even more convenient and anonymous than cash.
 
-This will create a ---virtuous--- (vicious?) cycle. As predators find it more difficult to steal from victims they will also lose the resources to invest in enforcing rules that make taxation easier. For example regulations that encourage employee relationships and the associated payroll taxes, as opposed to subcontractor relationships, will be harder to enforce. This will lead to even less taxation.
+This will create a vicious cycle. As predators find it more difficult to steal from victims they will also lose the resources to invest in enforcing rules that make taxation easier. For example regulations that encourage employee relationships and the associated payroll taxes, as opposed to subcontractor relationships, will be harder to enforce. This will lead to even less taxation.
 
 ## Racial Slavery 
-Racial slavery is a combination of attacks  against human productivity.  The victims and bystanders are told that the victims are inferior and that allowing them to maintain their property, including their bodies (3.1), would actually slow human progress towards a delightful world (2.1, 3.2) in order to take all of the victims past and future goods (1.2).
+Racial slavery is a combination of attacks against human productivity.  The victims and bystanders are told that the victims are inferior and that allowing them to maintain their property, including their bodies (3.1), would actually slow human progress towards a delightful world (2.1, 3.2) in order to take all of the victims past and future goods (1.2).
 
 Under Racial Slavery the victims bodies are  treated as property that is owned by the attacker. By targeting an identifiable race of men the predators can claim that the victims  are not fully human. Racial Slavery is not cost effective for skilled labor and, as a consequence, is no longer common  in developed countries.
 
 **Expenses**
 * In this form of slavery  the victims are aware  that they are being stolen from. While it is true that  predators attempt to convince the victims that this is a natural and appropriate relationship among superior and inferior creatures, the productivity of victims of racial slavery is very low.
 
-Victims intentionally reduce their productivity  by pretending to be less capable and  intelligent.
+Victims intentionally reduce their productivity by pretending to be less capable and  intelligent.
 
 Under racial slavery the victims are usually bought from a previous predator. This means that if the victim dies or escapes the new predator will suffer real financial loss.
 
